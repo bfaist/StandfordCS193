@@ -1,14 +1,14 @@
 //
-//  CS193Homework2App.swift
+//  MemorizeApp.swift
 //  Shared
 //
-//  Created by Robert Faist on 11/23/21.
+//  Created by Robert Faist on 11/15/21.
 //
 
 import SwiftUI
 
 @main
-struct CS193Homework2App: App {
+struct MemorizeApp: App {
     var body: some Scene {
         WindowGroup {
             GameGridView(viewModel: GameGridViewModel())

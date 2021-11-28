@@ -7,41 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A6A1A6FD274DF727006F99DC /* CS193Homework2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1A6ED274DF726006F99DC /* CS193Homework2App.swift */; };
-		A6A1A6FE274DF727006F99DC /* CS193Homework2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1A6ED274DF726006F99DC /* CS193Homework2App.swift */; };
-		A6A1A701274DF727006F99DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6A1A6EF274DF727006F99DC /* Assets.xcassets */; };
-		A6A1A702274DF727006F99DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6A1A6EF274DF727006F99DC /* Assets.xcassets */; };
-		A6A1A70C274DF8E2006F99DC /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1A70B274DF8E2006F99DC /* CardView.swift */; };
-		A6A1A70D274DF8E2006F99DC /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1A70B274DF8E2006F99DC /* CardView.swift */; };
-		A6A1A70F274DF94F006F99DC /* GameGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1A70E274DF94F006F99DC /* GameGridView.swift */; };
-		A6A1A710274DF94F006F99DC /* GameGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1A70E274DF94F006F99DC /* GameGridView.swift */; };
-		A6A1A715274E0201006F99DC /* GameGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1A714274E0201006F99DC /* GameGridViewModel.swift */; };
-		A6A1A716274E0201006F99DC /* GameGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1A714274E0201006F99DC /* GameGridViewModel.swift */; };
-		A6A1A718274EB081006F99DC /* CardTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1A717274EB081006F99DC /* CardTheme.swift */; };
-		A6A1A719274EB081006F99DC /* CardTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A1A717274EB081006F99DC /* CardTheme.swift */; };
+		A63F30E92743338800655DA5 /* MemorizeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A63F30D92743338700655DA5 /* MemorizeApp.swift */; };
+		A63F30EA2743338800655DA5 /* MemorizeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A63F30D92743338700655DA5 /* MemorizeApp.swift */; };
+		A63F30ED2743338800655DA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A63F30DB2743338700655DA5 /* Assets.xcassets */; };
+		A63F30EE2743338800655DA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A63F30DB2743338700655DA5 /* Assets.xcassets */; };
+		A6EC278627530A41008FE5D1 /* GameGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EC278127530A41008FE5D1 /* GameGridViewModel.swift */; };
+		A6EC278727530A41008FE5D1 /* GameGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EC278127530A41008FE5D1 /* GameGridViewModel.swift */; };
+		A6EC278A27530A41008FE5D1 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EC278327530A41008FE5D1 /* CardView.swift */; };
+		A6EC278B27530A41008FE5D1 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EC278327530A41008FE5D1 /* CardView.swift */; };
+		A6EC278C27530A41008FE5D1 /* GameGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EC278427530A41008FE5D1 /* GameGridView.swift */; };
+		A6EC278D27530A41008FE5D1 /* GameGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EC278427530A41008FE5D1 /* GameGridView.swift */; };
+		A6EC278E27530A41008FE5D1 /* CardTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EC278527530A41008FE5D1 /* CardTheme.swift */; };
+		A6EC278F27530A41008FE5D1 /* CardTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6EC278527530A41008FE5D1 /* CardTheme.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A6A1A6ED274DF726006F99DC /* CS193Homework2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CS193Homework2App.swift; sourceTree = "<group>"; };
-		A6A1A6EF274DF727006F99DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A6A1A6F4274DF727006F99DC /* CS193Homework2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CS193Homework2.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A6A1A6FA274DF727006F99DC /* CS193Homework2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CS193Homework2.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A6A1A6FC274DF727006F99DC /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
-		A6A1A70B274DF8E2006F99DC /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
-		A6A1A70E274DF94F006F99DC /* GameGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameGridView.swift; sourceTree = "<group>"; };
-		A6A1A714274E0201006F99DC /* GameGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameGridViewModel.swift; sourceTree = "<group>"; };
-		A6A1A717274EB081006F99DC /* CardTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardTheme.swift; sourceTree = "<group>"; };
+		A63F30D92743338700655DA5 /* MemorizeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeApp.swift; sourceTree = "<group>"; };
+		A63F30DB2743338700655DA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A63F30E02743338800655DA5 /* Memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memorize.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A63F30E62743338800655DA5 /* Memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memorize.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A63F30E82743338800655DA5 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		A6EC278127530A41008FE5D1 /* GameGridViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameGridViewModel.swift; sourceTree = "<group>"; };
+		A6EC278327530A41008FE5D1 /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		A6EC278427530A41008FE5D1 /* GameGridView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameGridView.swift; sourceTree = "<group>"; };
+		A6EC278527530A41008FE5D1 /* CardTheme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardTheme.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A6A1A6F1274DF727006F99DC /* Frameworks */ = {
+		A63F30DD2743338800655DA5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A6A1A6F7274DF727006F99DC /* Frameworks */ = {
+		A63F30E32743338800655DA5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -51,41 +51,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A6A1A6E7274DF726006F99DC = {
+		A63F30D32743338600655DA5 = {
 			isa = PBXGroup;
 			children = (
-				A6A1A6EC274DF726006F99DC /* Shared */,
-				A6A1A6FB274DF727006F99DC /* macOS */,
-				A6A1A6F5274DF727006F99DC /* Products */,
+				A63F30D82743338600655DA5 /* Shared */,
+				A63F30E72743338800655DA5 /* macOS */,
+				A63F30E12743338800655DA5 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A6A1A6EC274DF726006F99DC /* Shared */ = {
+		A63F30D82743338600655DA5 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
-				A6A1A6ED274DF726006F99DC /* CS193Homework2App.swift */,
-				A6A1A6EF274DF727006F99DC /* Assets.xcassets */,
-				A6A1A70B274DF8E2006F99DC /* CardView.swift */,
-				A6A1A70E274DF94F006F99DC /* GameGridView.swift */,
-				A6A1A714274E0201006F99DC /* GameGridViewModel.swift */,
-				A6A1A717274EB081006F99DC /* CardTheme.swift */,
+				A6EC278527530A41008FE5D1 /* CardTheme.swift */,
+				A6EC278327530A41008FE5D1 /* CardView.swift */,
+				A6EC278427530A41008FE5D1 /* GameGridView.swift */,
+				A6EC278127530A41008FE5D1 /* GameGridViewModel.swift */,
+				A63F30D92743338700655DA5 /* MemorizeApp.swift */,
+				A63F30DB2743338700655DA5 /* Assets.xcassets */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
 		};
-		A6A1A6F5274DF727006F99DC /* Products */ = {
+		A63F30E12743338800655DA5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A6A1A6F4274DF727006F99DC /* CS193Homework2.app */,
-				A6A1A6FA274DF727006F99DC /* CS193Homework2.app */,
+				A63F30E02743338800655DA5 /* Memorize.app */,
+				A63F30E62743338800655DA5 /* Memorize.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A6A1A6FB274DF727006F99DC /* macOS */ = {
+		A63F30E72743338800655DA5 /* macOS */ = {
 			isa = PBXGroup;
 			children = (
-				A6A1A6FC274DF727006F99DC /* macOS.entitlements */,
+				A63F30E82743338800655DA5 /* macOS.entitlements */,
 			);
 			path = macOS;
 			sourceTree = "<group>";
@@ -93,59 +93,59 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A6A1A6F3274DF727006F99DC /* CS193Homework2 (iOS) */ = {
+		A63F30DF2743338800655DA5 /* Memorize (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A6A1A705274DF727006F99DC /* Build configuration list for PBXNativeTarget "CS193Homework2 (iOS)" */;
+			buildConfigurationList = A63F30F12743338800655DA5 /* Build configuration list for PBXNativeTarget "Memorize (iOS)" */;
 			buildPhases = (
-				A6A1A6F0274DF727006F99DC /* Sources */,
-				A6A1A6F1274DF727006F99DC /* Frameworks */,
-				A6A1A6F2274DF727006F99DC /* Resources */,
+				A63F30DC2743338800655DA5 /* Sources */,
+				A63F30DD2743338800655DA5 /* Frameworks */,
+				A63F30DE2743338800655DA5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "CS193Homework2 (iOS)";
-			productName = "CS193Homework2 (iOS)";
-			productReference = A6A1A6F4274DF727006F99DC /* CS193Homework2.app */;
+			name = "Memorize (iOS)";
+			productName = "Memorize (iOS)";
+			productReference = A63F30E02743338800655DA5 /* Memorize.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A6A1A6F9274DF727006F99DC /* CS193Homework2 (macOS) */ = {
+		A63F30E52743338800655DA5 /* Memorize (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A6A1A708274DF727006F99DC /* Build configuration list for PBXNativeTarget "CS193Homework2 (macOS)" */;
+			buildConfigurationList = A63F30F42743338800655DA5 /* Build configuration list for PBXNativeTarget "Memorize (macOS)" */;
 			buildPhases = (
-				A6A1A6F6274DF727006F99DC /* Sources */,
-				A6A1A6F7274DF727006F99DC /* Frameworks */,
-				A6A1A6F8274DF727006F99DC /* Resources */,
+				A63F30E22743338800655DA5 /* Sources */,
+				A63F30E32743338800655DA5 /* Frameworks */,
+				A63F30E42743338800655DA5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "CS193Homework2 (macOS)";
-			productName = "CS193Homework2 (macOS)";
-			productReference = A6A1A6FA274DF727006F99DC /* CS193Homework2.app */;
+			name = "Memorize (macOS)";
+			productName = "Memorize (macOS)";
+			productReference = A63F30E62743338800655DA5 /* Memorize.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A6A1A6E8274DF726006F99DC /* Project object */ = {
+		A63F30D42743338600655DA5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1310;
 				LastUpgradeCheck = 1310;
 				TargetAttributes = {
-					A6A1A6F3274DF727006F99DC = {
+					A63F30DF2743338800655DA5 = {
 						CreatedOnToolsVersion = 13.1;
 					};
-					A6A1A6F9274DF727006F99DC = {
+					A63F30E52743338800655DA5 = {
 						CreatedOnToolsVersion = 13.1;
 					};
 				};
 			};
-			buildConfigurationList = A6A1A6EB274DF726006F99DC /* Build configuration list for PBXProject "CS193Homework2" */;
+			buildConfigurationList = A63F30D72743338600655DA5 /* Build configuration list for PBXProject "Memorize" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -153,65 +153,65 @@
 				en,
 				Base,
 			);
-			mainGroup = A6A1A6E7274DF726006F99DC;
-			productRefGroup = A6A1A6F5274DF727006F99DC /* Products */;
+			mainGroup = A63F30D32743338600655DA5;
+			productRefGroup = A63F30E12743338800655DA5 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A6A1A6F3274DF727006F99DC /* CS193Homework2 (iOS) */,
-				A6A1A6F9274DF727006F99DC /* CS193Homework2 (macOS) */,
+				A63F30DF2743338800655DA5 /* Memorize (iOS) */,
+				A63F30E52743338800655DA5 /* Memorize (macOS) */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A6A1A6F2274DF727006F99DC /* Resources */ = {
+		A63F30DE2743338800655DA5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A6A1A701274DF727006F99DC /* Assets.xcassets in Resources */,
+				A63F30ED2743338800655DA5 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A6A1A6F8274DF727006F99DC /* Resources */ = {
+		A63F30E42743338800655DA5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A6A1A702274DF727006F99DC /* Assets.xcassets in Resources */,
+				A63F30EE2743338800655DA5 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A6A1A6F0274DF727006F99DC /* Sources */ = {
+		A63F30DC2743338800655DA5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A6A1A70F274DF94F006F99DC /* GameGridView.swift in Sources */,
-				A6A1A70C274DF8E2006F99DC /* CardView.swift in Sources */,
-				A6A1A718274EB081006F99DC /* CardTheme.swift in Sources */,
-				A6A1A6FD274DF727006F99DC /* CS193Homework2App.swift in Sources */,
-				A6A1A715274E0201006F99DC /* GameGridViewModel.swift in Sources */,
+				A6EC278C27530A41008FE5D1 /* GameGridView.swift in Sources */,
+				A6EC278E27530A41008FE5D1 /* CardTheme.swift in Sources */,
+				A6EC278627530A41008FE5D1 /* GameGridViewModel.swift in Sources */,
+				A63F30E92743338800655DA5 /* MemorizeApp.swift in Sources */,
+				A6EC278A27530A41008FE5D1 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A6A1A6F6274DF727006F99DC /* Sources */ = {
+		A63F30E22743338800655DA5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A6A1A710274DF94F006F99DC /* GameGridView.swift in Sources */,
-				A6A1A70D274DF8E2006F99DC /* CardView.swift in Sources */,
-				A6A1A719274EB081006F99DC /* CardTheme.swift in Sources */,
-				A6A1A6FE274DF727006F99DC /* CS193Homework2App.swift in Sources */,
-				A6A1A716274E0201006F99DC /* GameGridViewModel.swift in Sources */,
+				A6EC278D27530A41008FE5D1 /* GameGridView.swift in Sources */,
+				A6EC278F27530A41008FE5D1 /* CardTheme.swift in Sources */,
+				A6EC278727530A41008FE5D1 /* GameGridViewModel.swift in Sources */,
+				A63F30EA2743338800655DA5 /* MemorizeApp.swift in Sources */,
+				A6EC278B27530A41008FE5D1 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		A6A1A703274DF727006F99DC /* Debug */ = {
+		A63F30EF2743338800655DA5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -270,7 +270,7 @@
 			};
 			name = Debug;
 		};
-		A6A1A704274DF727006F99DC /* Release */ = {
+		A63F30F02743338800655DA5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -322,7 +322,7 @@
 			};
 			name = Release;
 		};
-		A6A1A706274DF727006F99DC /* Debug */ = {
+		A63F30F22743338800655DA5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -343,8 +343,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.bobfaist.CS193Homework2;
-				PRODUCT_NAME = CS193Homework2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bobfaist.Memorize;
+				PRODUCT_NAME = Memorize;
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -352,7 +352,7 @@
 			};
 			name = Debug;
 		};
-		A6A1A707274DF727006F99DC /* Release */ = {
+		A63F30F32743338800655DA5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -373,8 +373,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.bobfaist.CS193Homework2;
-				PRODUCT_NAME = CS193Homework2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bobfaist.Memorize;
+				PRODUCT_NAME = Memorize;
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -383,7 +383,7 @@
 			};
 			name = Release;
 		};
-		A6A1A709274DF727006F99DC /* Debug */ = {
+		A63F30F52743338800655DA5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -403,15 +403,15 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.bobfaist.CS193Homework2;
-				PRODUCT_NAME = CS193Homework2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bobfaist.Memorize;
+				PRODUCT_NAME = Memorize;
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
-		A6A1A70A274DF727006F99DC /* Release */ = {
+		A63F30F62743338800655DA5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -431,8 +431,8 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.bobfaist.CS193Homework2;
-				PRODUCT_NAME = CS193Homework2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bobfaist.Memorize;
+				PRODUCT_NAME = Memorize;
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -442,34 +442,34 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A6A1A6EB274DF726006F99DC /* Build configuration list for PBXProject "CS193Homework2" */ = {
+		A63F30D72743338600655DA5 /* Build configuration list for PBXProject "Memorize" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A6A1A703274DF727006F99DC /* Debug */,
-				A6A1A704274DF727006F99DC /* Release */,
+				A63F30EF2743338800655DA5 /* Debug */,
+				A63F30F02743338800655DA5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A6A1A705274DF727006F99DC /* Build configuration list for PBXNativeTarget "CS193Homework2 (iOS)" */ = {
+		A63F30F12743338800655DA5 /* Build configuration list for PBXNativeTarget "Memorize (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A6A1A706274DF727006F99DC /* Debug */,
-				A6A1A707274DF727006F99DC /* Release */,
+				A63F30F22743338800655DA5 /* Debug */,
+				A63F30F32743338800655DA5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A6A1A708274DF727006F99DC /* Build configuration list for PBXNativeTarget "CS193Homework2 (macOS)" */ = {
+		A63F30F42743338800655DA5 /* Build configuration list for PBXNativeTarget "Memorize (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A6A1A709274DF727006F99DC /* Debug */,
-				A6A1A70A274DF727006F99DC /* Release */,
+				A63F30F52743338800655DA5 /* Debug */,
+				A63F30F62743338800655DA5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A6A1A6E8274DF726006F99DC /* Project object */;
+	rootObject = A63F30D42743338600655DA5 /* Project object */;
 }
