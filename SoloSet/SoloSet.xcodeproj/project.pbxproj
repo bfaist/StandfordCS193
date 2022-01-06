@@ -57,6 +57,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A6345794277E8ADF00F7D958 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A672D5F2276AF17F001625B2 /* AspectVGrid.swift */,
+				A672D5F5276AF450001625B2 /* GameGridView.swift */,
+				A672D5EF276AEC9A001625B2 /* CardView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		A672D5CB276AEC77001625B2 = {
 			isa = PBXGroup;
 			children = (
@@ -69,12 +79,10 @@
 		A672D5D0276AEC77001625B2 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				A6345794277E8ADF00F7D958 /* Views */,
 				A672D5FB276D5E3C001625B2 /* Shapes */,
 				A672D5D1276AEC77001625B2 /* SoloSetApp.swift */,
 				A672D5D3276AEC78001625B2 /* Assets.xcassets */,
-				A672D5EF276AEC9A001625B2 /* CardView.swift */,
-				A672D5F2276AF17F001625B2 /* AspectVGrid.swift */,
-				A672D5F5276AF450001625B2 /* GameGridView.swift */,
 				A672D5F8276AF48C001625B2 /* SetGameViewModel.swift */,
 				A6A45269276EFF5F00122B60 /* Card.swift */,
 			);
